@@ -1,7 +1,7 @@
 {
   "host": "localhost",
   "port": 3030,
-  "baseURL": "/api",
+  "apiBaseURL": "/api/v1",
   "public": "../public/",
   "paginate": {
     "default": 10,
