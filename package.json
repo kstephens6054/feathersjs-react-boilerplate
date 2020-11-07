@@ -10,7 +10,8 @@
     "dev": "concurrently \"npm run dev-client\" \"npm run dev-server\"",
     "build-client": "cd ./client && npm run build",
     "post-build": "rm -rf ./server/static && cp -Rf ./client/build/* ./server/public",
-    "build": "npm run build-client && npm run post-build"
+    "build": "npm run build-client && npm run post-build",
+    "start": "npm run build && cd ./server && npm run start"
   },
   "keywords": [
     "FeathersJS",
