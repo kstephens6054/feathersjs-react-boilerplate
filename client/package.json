@@ -1,6 +1,10 @@
 {
-  "name": "client",
+  "name": "feathersjs-react-client",
   "version": "0.1.0",
+  "author": {
+    "name": "Kurt Stephens",
+    "email": "kstephens6054@gmail.com"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",

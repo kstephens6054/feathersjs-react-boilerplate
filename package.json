@@ -10,6 +10,13 @@
     "FeathersJS",
     "React"
   ],
-  "author": "Kurt Stephens <kstephens6054@gmail.com>",
-  "license": "ISC"
+  "author": {
+    "name": "Kurt Stephens",
+    "email": "kstephens6054@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "feathersjs-react-client": "file:client",
+    "feathersjs-react-server": "file:server"
+  }
 }
