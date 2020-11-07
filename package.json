@@ -1,0 +1,15 @@
+{
+  "name": "feathersjs-react",
+  "version": "0.1.0",
+  "description": "FeathersJS/React Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FeathersJS",
+    "React"
+  ],
+  "author": "Kurt Stephens <kstephens6054@gmail.com>",
+  "license": "ISC"
+}
